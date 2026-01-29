@@ -31,11 +31,16 @@ Holding breadboard vertical + holes/wiring AWAY from me (i see the silver side/b
 Looking at actual axis of IMU from the strokers POV, it would be:
 
 X = UP
+
 Y = RIGHT
+
 Z = AWAY FROM ME (Away from paddler)
 
 
 **POV of you looking at me paddling + capturing dataset**
+
+LOOK at VIDEO AT: imu-datasets\setup-images\paddling-dataset-clip_xpYt5xVM.mp4
+
 <video controls src="setup-images/paddling-dataset-clip_xpYt5xVM.mp4" title="Title"></video>
 
 
