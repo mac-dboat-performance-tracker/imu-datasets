@@ -23,9 +23,10 @@ Data Format: [time_seconds, acc_x, acc_y, acc_z, q_w, q_x, q_y, q_z]
 
 Holding breadboard vertical + holes/wiring AWAY from me (i see the silver side/back of the breadboard)
 
-![POV: You are observing me from the front performing strokes](imu-datasets\setup-images\vertical_image.png)
 
-![birdseye view of circuit](imu-datasets\setup-images\axis.png)
+![POV: You are observing me from the front performing strokes](setup-images/vertical_image.png)
+
+![birdseye view of circuit](setup-images/axis.png)
 
 Looking at actual axis of IMU from the strokers POV, it would be:
 
@@ -35,7 +36,7 @@ Z = AWAY FROM ME (Away from paddler)
 
 
 **POV of you looking at me paddling + capturing dataset**
-<video controls src="setup/images/paddling-dataset-clip_xpYt5xVM.mp4" title="Title"></video>
+<video controls src="setup-images/paddling-dataset-clip_xpYt5xVM.mp4" title="Title"></video>
 
 
 
